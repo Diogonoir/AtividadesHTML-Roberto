@@ -1,0 +1,52 @@
+.sushi{
+    width: 700px;
+    margin-top: 20px;
+}
+
+.sashimi{
+width: 200px;
+margin-left: 1000px;
+ margin-top: -600px;
+}
+
+.combo1{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.preco1{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.combo2{
+    font-size: 50px;
+    color: aliceblue;
+}
+.preco2{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.unidade{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
+
+.temaki{
+    margin-left: 2100px;
+    width: 200px;
+}
+.combo3{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.preco3{
+    font-size: 50px;
+    color: aliceblue;
+}
